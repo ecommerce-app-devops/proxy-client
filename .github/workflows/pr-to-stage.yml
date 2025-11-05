@@ -6,7 +6,7 @@ on:
 
 jobs:
   call-template:
-    uses: ecommerce-app-devops/ci-pipeline/.github/workflows/pr-stage.yaml@main
+    uses: ecommerce-app-devops/ci-pipelines/.github/workflows/pr-stage.yaml@main
     with:
       image_name: ${{ github.repository }}
     secrets:
