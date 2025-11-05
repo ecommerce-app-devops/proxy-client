@@ -34,10 +34,3 @@ public class CredentialDto {
 	private Set<VerificationTokenDto> verificationTokenDtos;
 	
 }
-
-
-
-
-
-
-

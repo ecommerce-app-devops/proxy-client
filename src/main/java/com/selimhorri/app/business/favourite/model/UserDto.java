@@ -29,13 +29,3 @@ public class UserDto implements Serializable {
 	private Set<FavouriteDto> favouriteDtos;
 	
 }
-
-
-
-
-
-
-
-
-
-

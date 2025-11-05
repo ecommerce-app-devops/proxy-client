@@ -53,13 +53,3 @@ public class FavouriteDto implements Serializable {
 	private ProductDto productDto;
 	
 }
-
-
-
-
-
-
-
-
-
-
